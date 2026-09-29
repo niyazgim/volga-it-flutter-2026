@@ -1,3 +1,3 @@
 # Authors
 
-- Your Name <you@example.com>
+- Niyaz Gimadiev <niyaztutor@gmail.com>
